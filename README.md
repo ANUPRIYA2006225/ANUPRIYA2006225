@@ -9,8 +9,7 @@
 - 🔭 I’m currently focusing on FLutter and DSA
 - 🌱 I’m currently learning Android Development
 - 🤔 I’m member of TEAM NOUGAT, NIT PATNA
-- 💬 Have a question ?  <a href="anujhapriya2002@gmail.com">Ask Me </a>
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Have a question ? Gmail at  anujhapriya@gmail.com
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/anupri02jha">My LinkedIn</a>
+- 😄 Pronouns: she/her
+

@@ -1,4 +1,4 @@
-### Hola !! I am Anupriya Jha, a shophomore at NIT Patna! 👋
+### Hola !! I am Anupriya Jha, a Junior at NIT Patna! 👋
 [image](https://user-images.githubusercontent.com/91813724/152671783-ef59c27f-afce-4766-a79e-d8af3d1198be.png)
 ![image](https://user-images.githubusercontent.com/91813724/152671801-9e751b0e-0487-48aa-a793-53e06e1b22cc.png)
 
